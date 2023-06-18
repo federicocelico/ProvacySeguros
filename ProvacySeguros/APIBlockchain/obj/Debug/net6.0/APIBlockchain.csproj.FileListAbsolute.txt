@@ -1,0 +1,12 @@
+C:\GitHub\ProvacySeguros\ProvacySeguros\APIBlockchain\bin\Debug\net6.0\APIBlockchain.deps.json
+C:\GitHub\ProvacySeguros\ProvacySeguros\APIBlockchain\bin\Debug\net6.0\APIBlockchain.dll
+C:\GitHub\ProvacySeguros\ProvacySeguros\APIBlockchain\bin\Debug\net6.0\APIBlockchain.pdb
+C:\GitHub\ProvacySeguros\ProvacySeguros\APIBlockchain\obj\Debug\net6.0\APIBlockchain.csproj.AssemblyReference.cache
+C:\GitHub\ProvacySeguros\ProvacySeguros\APIBlockchain\obj\Debug\net6.0\APIBlockchain.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\ProvacySeguros\ProvacySeguros\APIBlockchain\obj\Debug\net6.0\APIBlockchain.AssemblyInfoInputs.cache
+C:\GitHub\ProvacySeguros\ProvacySeguros\APIBlockchain\obj\Debug\net6.0\APIBlockchain.AssemblyInfo.cs
+C:\GitHub\ProvacySeguros\ProvacySeguros\APIBlockchain\obj\Debug\net6.0\APIBlockchain.csproj.CoreCompileInputs.cache
+C:\GitHub\ProvacySeguros\ProvacySeguros\APIBlockchain\obj\Debug\net6.0\APIBlockchain.dll
+C:\GitHub\ProvacySeguros\ProvacySeguros\APIBlockchain\obj\Debug\net6.0\refint\APIBlockchain.dll
+C:\GitHub\ProvacySeguros\ProvacySeguros\APIBlockchain\obj\Debug\net6.0\APIBlockchain.pdb
+C:\GitHub\ProvacySeguros\ProvacySeguros\APIBlockchain\obj\Debug\net6.0\ref\APIBlockchain.dll

@@ -1,0 +1,15 @@
+C:\GitHub\ProvacySeguros\ProvacySeguros\Aplicacion\obj\Debug\net6.0\Aplicacion.csproj.AssemblyReference.cache
+C:\GitHub\ProvacySeguros\ProvacySeguros\Aplicacion\obj\Debug\net6.0\Aplicacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\ProvacySeguros\ProvacySeguros\Aplicacion\obj\Debug\net6.0\Aplicacion.AssemblyInfoInputs.cache
+C:\GitHub\ProvacySeguros\ProvacySeguros\Aplicacion\obj\Debug\net6.0\Aplicacion.AssemblyInfo.cs
+C:\GitHub\ProvacySeguros\ProvacySeguros\Aplicacion\obj\Debug\net6.0\Aplicacion.csproj.CoreCompileInputs.cache
+C:\GitHub\ProvacySeguros\ProvacySeguros\Aplicacion\bin\Debug\net6.0\Aplicacion.deps.json
+C:\GitHub\ProvacySeguros\ProvacySeguros\Aplicacion\bin\Debug\net6.0\Aplicacion.dll
+C:\GitHub\ProvacySeguros\ProvacySeguros\Aplicacion\bin\Debug\net6.0\Aplicacion.pdb
+C:\GitHub\ProvacySeguros\ProvacySeguros\Aplicacion\bin\Debug\net6.0\DAL.dll
+C:\GitHub\ProvacySeguros\ProvacySeguros\Aplicacion\bin\Debug\net6.0\DAL.pdb
+C:\GitHub\ProvacySeguros\ProvacySeguros\Aplicacion\obj\Debug\net6.0\Aplicacion.csproj.CopyComplete
+C:\GitHub\ProvacySeguros\ProvacySeguros\Aplicacion\obj\Debug\net6.0\Aplicacion.dll
+C:\GitHub\ProvacySeguros\ProvacySeguros\Aplicacion\obj\Debug\net6.0\refint\Aplicacion.dll
+C:\GitHub\ProvacySeguros\ProvacySeguros\Aplicacion\obj\Debug\net6.0\Aplicacion.pdb
+C:\GitHub\ProvacySeguros\ProvacySeguros\Aplicacion\obj\Debug\net6.0\ref\Aplicacion.dll
