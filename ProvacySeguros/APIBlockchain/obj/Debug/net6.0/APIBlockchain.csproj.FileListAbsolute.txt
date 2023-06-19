@@ -10,3 +10,5 @@ C:\GitHub\ProvacySeguros\ProvacySeguros\APIBlockchain\obj\Debug\net6.0\APIBlockc
 C:\GitHub\ProvacySeguros\ProvacySeguros\APIBlockchain\obj\Debug\net6.0\refint\APIBlockchain.dll
 C:\GitHub\ProvacySeguros\ProvacySeguros\APIBlockchain\obj\Debug\net6.0\APIBlockchain.pdb
 C:\GitHub\ProvacySeguros\ProvacySeguros\APIBlockchain\obj\Debug\net6.0\ref\APIBlockchain.dll
+C:\GitHub\ProvacySeguros\ProvacySeguros\APIBlockchain\bin\Debug\net6.0\APIBlockchain.runtimeconfig.json
+C:\GitHub\ProvacySeguros\ProvacySeguros\APIBlockchain\obj\Debug\net6.0\APIBlockchain.genruntimeconfig.cache

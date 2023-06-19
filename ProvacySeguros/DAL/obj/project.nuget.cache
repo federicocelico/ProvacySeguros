@@ -1,11 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "Xd5X4XEDXUJmD5iUShiNa5c0df45djO7YYAOtO1mDqgB2cT82e7s18TKC1ZR+YDWzLeYaRF+Vw6rjrJCKaEGyA==",
+  "dgSpecHash": "56HstfgjVtfH/D5PkFQmAzxqlsVNSq+OdCpA2MpdriXVyVrPvLWOTATdefAHrkjhciCafxrjNYtHbVXeyzSWaQ==",
   "success": true,
   "projectFilePath": "C:\\GitHub\\ProvacySeguros\\ProvacySeguros\\DAL\\DAL.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Farm\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\Farm\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
     "C:\\Users\\Farm\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
-    "C:\\Users\\Farm\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\Farm\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\Farm\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",
     "C:\\Users\\Farm\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\2.1.1\\microsoft.data.sqlclient.sni.runtime.2.1.1.nupkg.sha512",
     "C:\\Users\\Farm\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.18\\microsoft.entityframeworkcore.6.0.18.nupkg.sha512",
@@ -14,6 +16,7 @@
     "C:\\Users\\Farm\\.nuget\\packages\\microsoft.entityframeworkcore.design\\6.0.18\\microsoft.entityframeworkcore.design.6.0.18.nupkg.sha512",
     "C:\\Users\\Farm\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\6.0.18\\microsoft.entityframeworkcore.relational.6.0.18.nupkg.sha512",
     "C:\\Users\\Farm\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\6.0.18\\microsoft.entityframeworkcore.sqlserver.6.0.18.nupkg.sha512",
+    "C:\\Users\\Farm\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\6.0.18\\microsoft.entityframeworkcore.tools.6.0.18.nupkg.sha512",
     "C:\\Users\\Farm\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\6.0.0\\microsoft.extensions.caching.abstractions.6.0.0.nupkg.sha512",
     "C:\\Users\\Farm\\.nuget\\packages\\microsoft.extensions.caching.memory\\6.0.1\\microsoft.extensions.caching.memory.6.0.1.nupkg.sha512",
     "C:\\Users\\Farm\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",

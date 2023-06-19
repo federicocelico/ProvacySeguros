@@ -11,5 +11,6 @@ namespace Aplicacion.Interfaces
     {
         List<Usuario> GetAll();
         Usuario Get(int id);
+        void InsertUsuario(Usuario usuario);
     }
 }

@@ -1,0 +1,14 @@
+C:\GitHub\ProvacySeguros\ProvacySeguros\Web3.Storage\bin\Debug\net6.0\Web3.Storage.deps.json
+C:\GitHub\ProvacySeguros\ProvacySeguros\Web3.Storage\bin\Debug\net6.0\Web3.Storage.dll
+C:\GitHub\ProvacySeguros\ProvacySeguros\Web3.Storage\bin\Debug\net6.0\Web3.Storage.pdb
+C:\GitHub\ProvacySeguros\ProvacySeguros\Web3.Storage\obj\Debug\net6.0\Web3.Storage.csproj.AssemblyReference.cache
+C:\GitHub\ProvacySeguros\ProvacySeguros\Web3.Storage\obj\Debug\net6.0\Web3.Storage.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\ProvacySeguros\ProvacySeguros\Web3.Storage\obj\Debug\net6.0\Web3.Storage.AssemblyInfoInputs.cache
+C:\GitHub\ProvacySeguros\ProvacySeguros\Web3.Storage\obj\Debug\net6.0\Web3.Storage.AssemblyInfo.cs
+C:\GitHub\ProvacySeguros\ProvacySeguros\Web3.Storage\obj\Debug\net6.0\Web3.Storage.csproj.CoreCompileInputs.cache
+C:\GitHub\ProvacySeguros\ProvacySeguros\Web3.Storage\obj\Debug\net6.0\Web3.Storage.dll
+C:\GitHub\ProvacySeguros\ProvacySeguros\Web3.Storage\obj\Debug\net6.0\refint\Web3.Storage.dll
+C:\GitHub\ProvacySeguros\ProvacySeguros\Web3.Storage\obj\Debug\net6.0\Web3.Storage.pdb
+C:\GitHub\ProvacySeguros\ProvacySeguros\Web3.Storage\obj\Debug\net6.0\ref\Web3.Storage.dll
+C:\GitHub\ProvacySeguros\ProvacySeguros\Web3.Storage\bin\Debug\net6.0\Web3.Storage.runtimeconfig.json
+C:\GitHub\ProvacySeguros\ProvacySeguros\Web3.Storage\obj\Debug\net6.0\Web3.Storage.genruntimeconfig.cache

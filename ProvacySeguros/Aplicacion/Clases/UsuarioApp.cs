@@ -16,12 +16,17 @@ namespace Aplicacion.Clases
         }
         public Usuario Get(int id)
         {
-            throw new NotImplementedException();
+           return db.Usuarios.Where(x => x.Id == id).FirstOrDefault();  
         }
 
         public List<Usuario> GetAll()
         {
             return db.Usuarios.ToList();
+        }
+
+        public void InsertUsuario(Usuario usuario)
+        {
+            db.Usuarios.Add(usuario);
         }
     }
 }

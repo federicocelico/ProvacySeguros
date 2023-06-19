@@ -1,0 +1,12 @@
+C:\GitHub\ProvacySeguros\ProvacySeguros\DTOs\bin\Debug\net6.0\DTOs.deps.json
+C:\GitHub\ProvacySeguros\ProvacySeguros\DTOs\bin\Debug\net6.0\DTOs.dll
+C:\GitHub\ProvacySeguros\ProvacySeguros\DTOs\bin\Debug\net6.0\DTOs.pdb
+C:\GitHub\ProvacySeguros\ProvacySeguros\DTOs\obj\Debug\net6.0\DTOs.csproj.AssemblyReference.cache
+C:\GitHub\ProvacySeguros\ProvacySeguros\DTOs\obj\Debug\net6.0\DTOs.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\ProvacySeguros\ProvacySeguros\DTOs\obj\Debug\net6.0\DTOs.AssemblyInfoInputs.cache
+C:\GitHub\ProvacySeguros\ProvacySeguros\DTOs\obj\Debug\net6.0\DTOs.AssemblyInfo.cs
+C:\GitHub\ProvacySeguros\ProvacySeguros\DTOs\obj\Debug\net6.0\DTOs.csproj.CoreCompileInputs.cache
+C:\GitHub\ProvacySeguros\ProvacySeguros\DTOs\obj\Debug\net6.0\DTOs.dll
+C:\GitHub\ProvacySeguros\ProvacySeguros\DTOs\obj\Debug\net6.0\refint\DTOs.dll
+C:\GitHub\ProvacySeguros\ProvacySeguros\DTOs\obj\Debug\net6.0\DTOs.pdb
+C:\GitHub\ProvacySeguros\ProvacySeguros\DTOs\obj\Debug\net6.0\ref\DTOs.dll

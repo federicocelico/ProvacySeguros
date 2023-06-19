@@ -38,10 +38,13 @@ namespace ProvacySeguros.Controllers
             {
                 hashes.Add(_hash.CalcularHash(file));
 
+
             }
 
             return _hash.VerifyHash(hashes[0], hashes[1]);
         }
+
+
 
     }
 }
