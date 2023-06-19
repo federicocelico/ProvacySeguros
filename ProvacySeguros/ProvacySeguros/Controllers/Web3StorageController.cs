@@ -16,18 +16,6 @@ namespace ProvacySeguros.Controllers
         {
             _hash = hash;
         }
-        [HttpPost]
-        [Route("/Upload")]
-        public List<string> UploadFile(List<IFormFile> files)
-        {
-            List<string> hashes = new List<string>();
-            foreach (var file in files)
-            {
-                hashes.Add(_hash.CalcularHash(file));
-                
-            }
-            return hashes;
-        }
 
         [HttpPost]
         [Route("/Verify")]
@@ -36,7 +24,7 @@ namespace ProvacySeguros.Controllers
             List<string> hashes = new List<string>();
             foreach (var file in files)
             {
-                hashes.Add(_hash.CalcularHash(file));
+                hashes.Add(_hash.CalcularHash(file, 0));
 
 
             }

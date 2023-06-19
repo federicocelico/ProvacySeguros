@@ -15,10 +15,11 @@ namespace Aplicacion.Clases
         {
             this.db = db;
         }
-        public void InsertColaborador(Colaborador colaborador)
+        public int InsertColaborador(Colaborador colaborador)
         {
             db.Colaboradors.Add(colaborador);
             db.SaveChanges();
+            return colaborador.Id;
         }
     }
 }

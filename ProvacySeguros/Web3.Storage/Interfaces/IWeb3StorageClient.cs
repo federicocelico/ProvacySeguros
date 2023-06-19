@@ -8,6 +8,6 @@ namespace Web3.Storage.Interfaces
 {
     public interface IWeb3StorageClient
     {
-        string EnviarArchivos(byte[] file);
+        Task<string> EnviarArchivos(byte[] file);
     }
 }

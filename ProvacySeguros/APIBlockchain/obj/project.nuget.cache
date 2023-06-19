@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "yoxlQBGiJRS1o0EZt3qTjC63q+rZKrwwqH/j/rADH0zSMtrFnwZ2zAK57IzY25O9Asd1NI0CoYu7xxVYHSl5Fw==",
+  "dgSpecHash": "dFDG9Hs/2bgoV+YrSo2s8c/PbeuHq1cyPHO9b+x+TzvB48qQLyOGLt1olt2yoLoPxu+lcRXQiEg+3dOI+gg1Yw==",
   "success": true,
   "projectFilePath": "C:\\GitHub\\ProvacySeguros\\ProvacySeguros\\APIBlockchain\\APIBlockchain.csproj",
   "expectedPackageFiles": [
@@ -23,6 +23,7 @@
     "C:\\Users\\Farm\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
     "C:\\Users\\Farm\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
     "C:\\Users\\Farm\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\Farm\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
     "C:\\Users\\Farm\\.nuget\\packages\\system.collections.immutable\\6.0.0\\system.collections.immutable.6.0.0.nupkg.sha512",
     "C:\\Users\\Farm\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.1\\system.diagnostics.diagnosticsource.6.0.1.nupkg.sha512",
     "C:\\Users\\Farm\\.nuget\\packages\\system.io.pipelines\\5.0.2\\system.io.pipelines.5.0.2.nupkg.sha512",

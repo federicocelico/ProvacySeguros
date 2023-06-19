@@ -83,7 +83,7 @@ namespace Web3.Storage.Clases
                         
                     }
 
-                    string cid = _web3StorageClient.EnviarArchivos(output.ToArray());
+                    Task<string> cid = _web3StorageClient.EnviarArchivos(output.ToArray());
                     return output.ToArray();
                 }
                 else

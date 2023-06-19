@@ -7,9 +7,14 @@ namespace APIBlockchain.Clases
 {
     public class Hash : IHash
     {
-        
+        private readonly IBlockchainClient _blockhainClient;
 
-        public string CalcularHash(IFormFile file)
+        public Hash(IBlockchainClient blockchainClient)
+        {
+            _blockhainClient = blockchainClient;
+        }
+
+        public string CalcularHash(IFormFile file, int idColab)
         {
             byte[] bytes;
             using (var stream = new MemoryStream())
@@ -23,7 +28,10 @@ namespace APIBlockchain.Clases
             {
                 hash = GetHash(sha256Hash, bytes);
             }
-
+            if(idColab != 0)
+            {
+                _blockhainClient.InsertarHash(idColab, hash);
+            }
             return hash;
         }
 

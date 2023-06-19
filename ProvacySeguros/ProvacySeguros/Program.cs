@@ -33,6 +33,7 @@ builder.Services.AddScoped<IHash, Hash>();
 builder.Services.AddScoped<IColaborador, ColaboradorApp>();
 builder.Services.AddScoped<IArchivoWeb, ArchivoWeb>();
 builder.Services.AddScoped<IWeb3StorageClient, Web3StorageClient>();
+builder.Services.AddScoped<IBlockchainClient, BlockchainClient>();
 builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
 
 

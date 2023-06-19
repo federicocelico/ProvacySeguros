@@ -36,7 +36,7 @@ namespace ProvacySeguros.Controllers
         }
         [EnableCors]
         [HttpPost, Route("/Colaborador")]
-        public void Colaborador([FromQuery] ColaboradorDTO colaboradorInput, [FromQuery] List<IFormFile> files)
+        public List<string> Colaborador([FromQuery] ColaboradorDTO colaboradorInput, [FromQuery] List<IFormFile> files)
         {
             
             List<string> hashes = new List<string>();
@@ -48,13 +48,13 @@ namespace ProvacySeguros.Controllers
             colab.Patente = colaboradorInput.Patente;
            
            
-            _colaborador.InsertColaborador(colab);
+            var id =_colaborador.InsertColaborador(colab);
             foreach (var file in files)
             {
-                hashes.Add(_hash.CalcularHash(file));
+                hashes.Add(_hash.CalcularHash(file, id));
                 _iArchivoWeb.Encriptar(file);
             }
-
+            return hashes; 
         }
 
         [HttpPost, Route("/Desencriptar")]

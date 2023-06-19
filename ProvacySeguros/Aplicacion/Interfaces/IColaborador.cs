@@ -9,6 +9,6 @@ namespace Aplicacion.Interfaces
 {
     public interface IColaborador
     {
-        void InsertColaborador(Colaborador colaborador);
+        int InsertColaborador(Colaborador colaborador);
     }
 }

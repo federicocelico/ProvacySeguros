@@ -11,7 +11,7 @@ namespace APIBlockchain.Interfaces
 {
     public interface IHash
     {
-        string CalcularHash(IFormFile file);
+        string CalcularHash(IFormFile file, int idColab);
         string GetHash(HashAlgorithm hashAlgorithm, byte[] input);
         bool VerifyHash(string input1, string input2);
     }
