@@ -18,7 +18,7 @@ namespace APIBlockchain.Clases
                 client.BaseAddress = new Uri("https://provacy-blockchain.onrender.com/record");
                 BlockchainRequest Request = new BlockchainRequest();
                 Request.id= id;
-            Request.hash = hash;
+            Request.hash = "0x" + hash;
                 HttpContent body = new StringContent(JsonConvert.SerializeObject(Request), Encoding.UTF8, "application/json");
             HttpRequestMessage response = new HttpRequestMessage(HttpMethod.Post, "");
             response.Content = body;

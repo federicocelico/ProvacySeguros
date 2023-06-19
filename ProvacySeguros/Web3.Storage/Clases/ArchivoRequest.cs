@@ -8,6 +8,6 @@ namespace Web3.Storage.Clases
 {
     public class ArchivoRequest
     {
-        public byte[] binary { get; set; }
+        public byte[] file { get; set; }
     }
 }
